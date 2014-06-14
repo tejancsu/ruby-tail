@@ -1,5 +1,5 @@
 How to run:
-ruby tail.rb [-f] [-n #] [file ...]
+ruby-tail [-f] [-n #] [file ...]
 
 Requirements: >= ruby 1.9.3p194
 

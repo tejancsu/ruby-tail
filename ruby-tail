@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 BUF_TO_READ = 1 << 12
 def init_tail(f, n)
   line_array = []
